@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cstring>
+using namespace std;
 class somethings{
 private:
     char *name;
